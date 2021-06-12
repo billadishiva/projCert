@@ -31,7 +31,7 @@ function navMenu($sep = ' | ')
 }
 
 /**
- * Displays page title. It takes the data from 
+ * Displays page title. It takes the data from  testing
  * URL, it replaces the hyphens with spaces and 
  * it capitalizes the words.
  */
